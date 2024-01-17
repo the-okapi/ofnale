@@ -1,0 +1,53 @@
+:root {
+    font-family: "Raleway";
+    color: #157ea0;
+}
+
+a {
+    text-decoration: none;
+    color: #157ea0;
+    margin: 40px;
+    text-align: center;
+}
+
+p {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+div {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+div:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-top: 9px;
+    padding-bottom: 11px;
+}
+
+.big {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Caveat";
+}
+
+.yellow {
+    color: #dec05f;
+}
+
+img {
+    display: block;
+    height: 45%;
+    width: 15%;
+    left: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    background-color: #dec05f;
+    height: 2.5px;
+}
