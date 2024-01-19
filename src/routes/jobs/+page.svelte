@@ -14,6 +14,6 @@
 
 <style>
     img {
-        width: 30%;
+        width: 29%;
     }
 </style>

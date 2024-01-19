@@ -13,7 +13,6 @@
 
 <style>
     img {
-        height: 45%;
-        width: 15%;
+        width: 12.5%;
     }
 </style>
