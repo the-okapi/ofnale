@@ -1,1 +1,1 @@
-<div><h3><a href="./transportation">Transportation</a><a href="./"><span class="big">Ofnale</span></a><a href="./flag">Notre Drapeau</a><br><a href="./" class="yellow">Le pays du nature</a></h3></div>
+<div><h3><a href="./food">Nourriture</a><a href="./jobs">Métiers</a><a href="./transportation">Transportation</a><a href="./"><span class="big">Ofnale</span></a><a href="./flag">Drapeau</a><a href="./hobbies">Losirs</a><a href="./map">Géographie</a><br><a href="./" class="yellow">Le pays du nature</a></h3></div>
