@@ -1,14 +1,13 @@
 :root {
     font-family: "Raleway";
-    color: #157ea0;
 }
 
 a {
     text-decoration: none;
-    color: #157ea0;
     margin: 2%;
     text-align: center;
-    font-size: 1.5vw;
+    font-size: 1.25vw;
+    color: #157ea0;
 }
 
 p {
@@ -36,6 +35,27 @@ div:hover {
     color: #dec05f;
 }
 
+.greenBig {
+    font-size: 3.5vw;
+    font-weight: bold;
+    font-family: "Oswald";
+    color: #009f00;
+}
+
+.blueBig {
+    font-size: 2.75vw;
+    font-weight: bold;
+    font-family: "Ubuntu";
+    color: #157ea0;
+}
+
+.blackBig {
+    font-size: 3.5vw;
+    font-weight: bold;
+    font-family: "Yellowtail";
+    color: black;
+}
+
 .yellow {
     color: #dec05f;
 }
@@ -54,10 +74,41 @@ img {
 }
 
 hr {
-    background-color: #dec05f;
-    height: 2.5px;
+    background-color: white;
+    border: none;
 }
 
 p {
     color: black;
+}
+
+h1 {
+    color: #157ea0;
+}
+
+.partis {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    list-style: none;
+}
+
+.green {
+    color: #009f00;
+}
+
+.blue {
+    color: #157ea0;
+}
+
+.black {
+   color: black;
+}
+
+ul {
+    list-style: none;
+}
+
+.margin {
+    margin: 10px;
 }
