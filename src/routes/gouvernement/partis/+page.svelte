@@ -10,7 +10,7 @@
 
 <h1>Partis Politiques</h1>
 
-<p>Ofnale est un démocratie représentative avec les partis politiques. Le Parti Vert a le plus des votes, le Parti des Peuples a un peu des votes et le Parti Ofnale n'a rien de votes. Les trois partis sont :</p>
+<p>Ofnale est une démocratie représentative avec les partis politiques. Le Parti Vert a le plus de votes, le Parti des Peuples a un peu de votes et le Parti Ofnale n'a rien de votes. Les trois partis sont :</p>
 <ul class="partis">
     <li><a class="green" href="/gouvernement/partis/vert"><img src={parti_vert} alt="parti vert"> Parti Vert</a></li>
     <li> <a class="blue" href="/gouvernement/partis/peuples"><img src={parti_des_peuples} alt="parti des peuples"> Parti des Peuples</a></li>
