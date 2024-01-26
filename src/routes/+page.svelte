@@ -8,7 +8,7 @@
 
 <p>Pour apprendre plus à propos d'Ofnale, visite un des autres catégories sur ce site web.</p>
 
-<a href="/qwertyuiopasdfghjkl"><img src={ofnale} alt="nature pic" /></a>
+<img src={ofnale} alt="nature pic" />
 <style>
     img {
         width: 39%;
