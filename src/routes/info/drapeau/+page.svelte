@@ -1,7 +1,7 @@
 <script lang="ts">
     import NavBar from '$lib/NavBar.svelte';
-    import flag_waving from '$lib/flag_waving.png';
-    import flag from '$lib/flag.png';
+    import flag_waving from '$lib/images/flag_waving.png';
+    import flag from '$lib/images/flag.png';
 </script>
 <title>Drapeau</title>
 
@@ -13,6 +13,6 @@
 
 <style>
     img {
-        width: 12.5%;
+        width: 20%;
     }
 </style>

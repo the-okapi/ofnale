@@ -1,6 +1,6 @@
 <script lang="ts">
     import NavBar from '$lib/NavBar.svelte';
-    import farming from '$lib/farming.png';
+    import farming from '$lib/images/farming.png';
 </script>
 <title>Métiers</title>
 
@@ -14,6 +14,6 @@
 
 <style>
     img {
-        width: 29%;
+        width: 35%;
     }
 </style>

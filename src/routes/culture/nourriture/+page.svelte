@@ -1,6 +1,6 @@
 <script lang="ts">
     import NavBar from '$lib/NavBar.svelte';
-    import crops from '$lib/crops.png';
+    import crops from '$lib/images/crops.png';
 </script>
 <title>Nourriture</title>
 
@@ -14,6 +14,6 @@
 
 <style>
     img {
-        width: 30%;
+        width: 35%;
     }
 </style>
