@@ -1,10 +1,10 @@
 <script lang="ts">
-    import NavBar from "$lib/NavBar.svelte";
+    import GouvernementNavBar from "$lib/GouvernementNavBar.svelte";
     import PeuplesNavBar from "$lib/PeuplesNavBar.svelte";
 </script>
 <title>Idées Centrales - Parti des Peuples</title>
 
-<NavBar />
+<GouvernementNavBar />
 <PeuplesNavBar />
 
 <h1>Nos Idées Centrales</h1>

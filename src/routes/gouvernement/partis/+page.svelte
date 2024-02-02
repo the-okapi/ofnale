@@ -1,12 +1,12 @@
 <script lang="ts">
-    import NavBar from '$lib/NavBar.svelte';
+    import GouvernementNavBar from '$lib/GouvernementNavBar.svelte';
     import parti_vert from '$lib/images/parti_vert.png';
     import parti_des_peuples from '$lib/images/parti_des_peuples.png';
     import parti_olande from '$lib/images/parti_olande.png';
 </script>
 <title>Partis Politiques</title>
 
-<NavBar />
+<GouvernementNavBar />
 
 <h1>Partis Politiques</h1>
 

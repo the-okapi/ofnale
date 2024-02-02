@@ -1,11 +1,11 @@
 <script lang="ts">
-    import NavBar from '$lib/NavBar.svelte';
+    import ReliefNavBar from '$lib/ReliefNavBar.svelte';
     import ofnale_map from '$lib/images/ofnale_map.png';
     import ofnale_region from '$lib/images/ofnale_region.png';
 </script>
 <title>Carte</title>
 
-<NavBar />
+<ReliefNavBar />
 
 <h1>Carte</h1>
 
