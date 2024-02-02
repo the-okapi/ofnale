@@ -1,9 +1,9 @@
 <script lang="ts">
-    import NavBar from "$lib/NavBar.svelte";
+    import GouvernementNavBar from "$lib/GouvernementNavBar.svelte";
 </script>
 <title>Président</title>
 
-<NavBar />
+<GouvernementNavBar />
 
 <h1>Président</h1>
 

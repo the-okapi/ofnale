@@ -1,9 +1,9 @@
 <script lang="ts">
-    import NavBar from '$lib/NavBar.svelte';
+    import PeuplesSectionNavBar from '$lib/PeuplesSectionNavBar.svelte';
 </script>
 <title>Transport</title>
 
-<NavBar />
+<PeuplesSectionNavBar />
 <h1>Transport</h1>
 
 <p>

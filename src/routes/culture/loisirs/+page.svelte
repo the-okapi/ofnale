@@ -1,10 +1,10 @@
 <script lang="ts">
-    import NavBar from '$lib/NavBar.svelte';
+    import PeuplesSectionNavBar from '$lib/PeuplesSectionNavBar.svelte';
     import nature from '$lib/images/nature.png';
 </script>
 <title>Loisirs</title>
 
-<NavBar />
+<PeuplesSectionNavBar />
 
 <h1>Loisirs</h1>
 
