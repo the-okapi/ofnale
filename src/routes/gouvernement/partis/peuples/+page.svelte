@@ -8,5 +8,3 @@
 <PeuplesNavBar />
 
 <p>Pour apprendre plus à propos du Parti des Peuples, visite un des autres catégories sur ce site web.</p>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>

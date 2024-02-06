@@ -17,5 +17,3 @@
     <li class="margin"><strong>Pierre Lyudi</strong> - Candidat pour le Conseil d'État, Opol</li>
     <li class="margin"><strong>Claude Neeg</strong> - Membre du Conseil des Habitants, Opol</li>
 </ul>
-
-<br><br><br><br>

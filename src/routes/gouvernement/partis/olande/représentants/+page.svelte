@@ -17,4 +17,3 @@
     <li class="margin"><strong>Camille Rhyfel</strong> - Candidat pour le Conseil International, Opol</li>
     <li class="margin"><strong>Théo Yaki</strong> - Candidat pour le Conseil  des Habitants, Opol</li>
 </ul>
-<br><br>
