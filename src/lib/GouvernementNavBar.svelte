@@ -5,4 +5,5 @@
     <a href="/"><span class="big">Ofnale</span></a>
     <a href="/gouvernement/pollution">Pollution</a>
     <a href="/gouvernement/juridiction">Juridiction</a>
+    <a href="/gouvernement/inégalités">Inégalités Résolues</a>
 </h3></div>
