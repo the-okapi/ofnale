@@ -8,5 +8,3 @@
 <VertNavBar />
 
 <p>Pour apprendre plus à propos du Parti Vert, visite un des autres catégories sur ce site web.</p>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br>

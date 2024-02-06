@@ -1,7 +1,8 @@
 <div><h3>
-    <a href="/culture/métiers">Métiers</a>
-    <a href="/culture/transport">Transport</a>
+    <a href="/peuples/métiers">Métiers</a>
+    <a href="/peuples/transport">Transport</a>
     <a href="/"><span class="big">Ofnale</span></a>
-    <a href="/culture/loisirs">Loisirs</a>
-    <a href="/culture/nourriture">Nourriture</a>
+    <a href="/peuples/loisirs">Loisirs</a>
+    <a href="/peuples/nourriture">Nourriture</a>
+    <a href="/peuples/richesse">Richesse</a>
 </h3></div>
