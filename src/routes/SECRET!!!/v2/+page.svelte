@@ -1,0 +1,1 @@
+<p>Le président d'Ofnale est une chèvre. Il est nommé M. Kozel.</p>
