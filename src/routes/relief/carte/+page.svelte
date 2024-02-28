@@ -11,11 +11,11 @@
 
 <img src={ofnale_map} class="map" alt="map of olande with ofnale highlighted">
 
-<p>Dans cette carte, Ofnale et sur le bas droit. Les bordures sont rose pour Ofnale seulement.</p>
+<p>Dans cette carte, Ofnale est sur le bas droit. Les bordures sont rose pour Ofnale seulement.</p>
 
 <img src={ofnale_region} class="region" alt="map of the region of ofnale">
 
-<p>Voici un autre carte, d'Ofnale seulement. Il y a nos trois provinces : Ozueli, Outger et Opol. Tous les villes sauf qu'Oilstour sont le capital d'un province. Otnew pour Ozueli, Opurdy pour Outger et Ouagil pour Opol.</p>
+<p>Voici une autre carte, d'Ofnale seulement. Sur la carte, nous avons trois provinces : Ozueli, Outger et Opol. Une des villes dans chaque province est la capitale d'une province. Otnew pour Ozueli, Opurdy pour Outger et Ouagil pour Opol.</p>
 
 <style>
     .map {

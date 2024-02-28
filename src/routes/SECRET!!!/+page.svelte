@@ -1,0 +1,1 @@
+<p>Un des avantages d'Ofnale comparés au Canada, est qu'il il y a moins de pollution d'air. Un autre est qu'il n'a pas beaucoup de chaînes de magasins, donc il n'y a pas autant de nourriture industrielle. De plus, Ofnale a beaucoup plus de fromage ! Ofnale est meilleur à régler les problèmes, car il est moins peuplé, donc moins de peuples pour passer une loi.</p>
